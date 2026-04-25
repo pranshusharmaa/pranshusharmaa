@@ -8,7 +8,7 @@ My projects focus on turning AI models into usable systems: real-time perception
 
 ### Accessibility AI and Real-Time Vision
 - **SQUIRL** — Live ASL-to-English translation system using gesture recognition and sequence modeling to convert sign language input into English text.*( Private )*
-- **ARIA** — iPhone-based blind navigation assistant combining LiDAR obstacle detection, semantic segmentation, 3D spatial audio guidance, and voice-based image Q&A. *( Private )*
+- **ARIA** — Accessibility AI system for blind navigation, currently prototyped on iPhone as a demo platform with LiDAR obstacle detection, semantic segmentation, 3D spatial audio guidance, and voice-based image Q&A. Designed as a step toward a wearable smart-glasses navigation assistant. *( Private )*
 
 ### Mathematical Reasoning Systems
 - **AIMO 3 Pipeline** — Multi-branch mathematical reasoning pipeline for Kaggle’s AI Mathematical Olympiad, using adaptive time allocation, tool-integrated reasoning, deterministic verification, rescue branches, and vote-based answer selection. 
@@ -32,10 +32,8 @@ My projects focus on turning AI models into usable systems: real-time perception
 ### Agentic AI Systems
 - **Runbook Revenant** — Incident-response copilot connecting alerts, logs, runbooks, live war rooms, postmortems, and release guardrails.
 
-## Technical Areas
-
-Python, PyTorch, TypeScript, computer vision, gesture recognition, reinforcement learning, retrieval systems, LLM reasoning pipelines, model compression, tabular ML, edge AI, medical AI, and applied ML systems.
+**Technical Focus:** Applied machine learning systems spanning computer vision, real-time gesture recognition, reinforcement learning, semantic retrieval, model compression, tabular forecasting, edge AI, and medical AI.
 
 ## Project Status
 
-Some projects are public, while others are private due to start up constraints, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
+Some projects are public, while others are private due to start up or competition constraints, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
