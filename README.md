@@ -38,4 +38,4 @@ Python, PyTorch, TypeScript, computer vision, gesture recognition, reinforcement
 
 ## Project Status
 
-Some projects are public, while others are private due to competition constraints, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
+Some projects are public, while others are private due to start up constraints, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
