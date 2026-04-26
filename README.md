@@ -1,6 +1,6 @@
 # Pranshu Sharma
 
-I build applied AI systems across computer vision, accessibility, mathematical reasoning, model optimization, medical AI, quantitative forecasting, retrieval, and reinforcement learning.
+I build applied AI systems across computer vision, accessibility, mathematical reasoning, model optimization, agentic AI, quantitative forecasting, retrieval, and reinforcement learning.
 
 My work focuses on turning AI ideas into usable systems: real-time perception tools, reasoning pipelines, compressed model architectures, retrieval systems, tabular forecasting models, edge AI prototypes, and research-driven ML experiments.
 
@@ -20,7 +20,7 @@ My work focuses on turning AI ideas into usable systems: real-time perception to
 
 **[Gemma Sub-2-bit PTQ Study](https://github.com/pranshusharmaa/gemma-sub2bit-ptq-study)** — In-progress research prototype studying post-training quantization on Gemma-3-270M. The project investigates why naive ternary and binary quantization collapse on small language models, and tests mixed-precision saliency rescue as a possible recovery direction.
 
-**1-Bit Architecture Conversion** — Experimental model-compression project exploring low-bit architecture conversion, quantized representations, and efficient inference. *(In progress / private)*
+**Low-Bit Architecture Research** — In-progress research direction exploring sub-2-bit model compression and architecture conversion. Current experiments focus on quantization failure modes, ternary/binary representations, and mixed-precision recovery strategies. If the research direction works, the next stage is a cleaner low-bit converter. *(In progress / private)*
 
 ### NLP and Retrieval
 
