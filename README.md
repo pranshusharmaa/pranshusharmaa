@@ -14,7 +14,7 @@ My work focuses on turning AI ideas into usable systems: real-time perception to
 
 ### Mathematical Reasoning Systems
 
-**AIMO 3 Pipeline** — Multi-branch mathematical reasoning pipeline for Kaggle’s AI Mathematical Olympiad. The system uses adaptive time allocation, tool-integrated reasoning, deterministic verification, rescue branches, and vote-based answer selection to improve reliability on difficult math problems. 
+**[AIMO 3 Pipeline](https://github.com/pranshusharmaa/aimo3-math-reasoning-pipeline)** — Multi-branch mathematical reasoning pipeline for Kaggle’s AI Mathematical Olympiad. The system uses adaptive time allocation, tool-integrated reasoning, deterministic verification, rescue branches, and vote-based answer selection to improve reliability on difficult math problems. 
 
 ### Model Architecture and Optimization
 
