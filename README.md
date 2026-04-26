@@ -2,38 +2,56 @@
 
 I build applied AI systems across computer vision, accessibility, mathematical reasoning, model optimization, medical AI, quantitative forecasting, retrieval, and reinforcement learning.
 
-My projects focus on turning AI models into usable systems: real-time perception tools, reasoning pipelines, tabular forecasting models, compressed architectures, retrieval systems, and edge AI prototypes.
+My work focuses on turning AI ideas into usable systems: real-time perception tools, reasoning pipelines, compressed model architectures, retrieval systems, tabular forecasting models, edge AI prototypes, and research-driven ML experiments.
 
 ## Featured Projects
 
 ### Accessibility AI and Real-Time Vision
-- **SQUIRL** — Live ASL-to-English translation system using gesture recognition and sequence modeling to convert sign language input into English text.*( Private )*
-- **ARIA** — Accessibility AI system for blind navigation, currently prototyped on iPhone as a demo platform with LiDAR obstacle detection, semantic segmentation, 3D spatial audio guidance, and voice-based image Q&A. Designed as a step toward a wearable smart-glasses navigation assistant. *( Private )*
+
+**SQUIRL** — Live ASL-to-English translation system using gesture recognition and sequence modeling to convert sign language input into English text. *(Private)*
+
+**ARIA** — Accessibility AI system for blind navigation, currently prototyped on iPhone as a demo platform. The prototype combines LiDAR-based obstacle detection, semantic segmentation, 3D spatial audio guidance, and voice-based image Q&A. The long-term goal is a wearable smart-glasses navigation assistant for real-time mobility support. *(Private)*
 
 ### Mathematical Reasoning Systems
-- **AIMO 3 Pipeline** — Multi-branch mathematical reasoning pipeline for Kaggle’s AI Mathematical Olympiad, using adaptive time allocation, tool-integrated reasoning, deterministic verification, rescue branches, and vote-based answer selection. 
+
+**AIMO 3 Pipeline** — Multi-branch mathematical reasoning pipeline for Kaggle’s AI Mathematical Olympiad. The system uses adaptive time allocation, tool-integrated reasoning, deterministic verification, rescue branches, and vote-based answer selection to improve reliability on difficult math problems. 
 
 ### Model Architecture and Optimization
-- **1-Bit Architecture Conversion** — Experimental model-compression project exploring low-bit architecture conversion, quantized representations, and efficient inference. *(in progress)*
+
+**[Gemma Sub-2-bit PTQ Study](https://github.com/pranshusharmaa/gemma-sub2bit-ptq-study)** — In-progress research prototype studying post-training quantization on Gemma-3-270M. The project investigates why naive ternary and binary quantization collapse on small language models, and tests mixed-precision saliency rescue as a possible recovery direction.
+
+**1-Bit Architecture Conversion** — Experimental model-compression project exploring low-bit architecture conversion, quantized representations, and efficient inference. *(In progress / private)*
 
 ### NLP and Retrieval
-- **Hebrew Semantic Retrieval** — Semantic retrieval system for Hebrew text using pretrained embeddings without task-specific supervision.
+
+**[Hebrew Semantic Retrieval](https://github.com/pranshusharmaa/Hebrew_Semantic_Retrieval)** — Semantic retrieval system for Hebrew text using pretrained embeddings without task-specific supervision.
 
 ### Medical AI
-- **MedGemma Impact** — Edge-deployed medical AI agent designed to monitor diagnostic drift, bias, and polypharmacy risk.
+
+**[MedGemma Impact](https://github.com/pranshusharmaa/MedGemma_impact)** — Edge-deployed medical AI agent designed to monitor diagnostic drift, bias, and polypharmacy risk in clinical decision-support workflows.
 
 ### Quantitative Forecasting and Tabular ML
-- **CrunchDAO Falcon Forecasting** — Tree-based forecasting pipeline for predicting Falcon positions from structured features in a CrunchDAO challenge, with emphasis on feature engineering, validation, and model comparison.
+
+**CrunchDAO Falcon Forecasting** — Tree-based forecasting pipeline for predicting Falcon positions from structured features in a CrunchDAO challenge. The project emphasizes feature engineering, validation strategy, and model comparison. *(Private / competition work)*
 
 ### Reinforcement Learning
-- **Value-Conditioned RND** — Curiosity-driven RL exploration project extending random network distillation with value-conditioned intrinsic reward scaling.
-- **TD-MPC Reproduction** — Research reproduction of model-based reinforcement learning methods.
+
+**[Value-Conditioned RND](https://github.com/pranshusharmaa/Value_conditioned_random-network-distillation)** — Curiosity-driven reinforcement learning exploration project extending random network distillation with value-conditioned intrinsic reward scaling.
+
+**[TD-MPC Reproduction](https://github.com/pranshusharmaa/tdmpc-reproduction-csc415)** — Research reproduction of model-based reinforcement learning methods, focused on understanding planning, latent dynamics, and sample efficiency.
 
 ### Agentic AI Systems
-- **Runbook Revenant** — Incident-response copilot connecting alerts, logs, runbooks, live war rooms, postmortems, and release guardrails.
 
-**Technical Focus:** Applied machine learning systems spanning computer vision, real-time gesture recognition, reinforcement learning, semantic retrieval, model compression, tabular forecasting, edge AI, and medical AI.
+**[Runbook Revenant](https://github.com/pranshusharmaa/Kiroween_Hackathon)** — Incident-response copilot connecting alerts, logs, runbooks, live war rooms, postmortems, and release guardrails.
+
+### Historical Text and Computer Vision
+
+**Vesuvius Challenge Work** — Research and experimentation around historical text recovery, scroll segmentation, and machine-learning-based reading pipelines. 
+
+## Technical Focus
+
+Applied machine learning systems, computer vision, real-time gesture recognition, accessibility AI, reinforcement learning, semantic retrieval, model compression, tabular forecasting, edge AI, medical AI, and LLM reasoning pipelines.
 
 ## Project Status
 
-Some projects are public, while others are private due to start up or competition constraints, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
+Some projects are public, while others are private due to startup constraints, competition rules, research experiments, or active development. Summaries, demos, and selected code samples are available on request.
