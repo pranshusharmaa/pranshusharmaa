@@ -22,6 +22,8 @@ My work focuses on turning AI ideas into usable systems: real-time perception to
 
 **Low-Bit Architecture Research** — In-progress research direction exploring sub-2-bit model compression and architecture conversion. Current experiments focus on quantization failure modes, ternary/binary representations, and mixed-precision recovery strategies. If the research direction works, the next stage is a cleaner low-bit converter. *(In progress / private)*
 
+**Parameter-Golf Swing** — In-progress research project proposing three improvements to a state-of-the-art entry in the parameter-golf text compression competition (10-min, 16 MB track). The patches target recurrence-aware Hessian-trace clipping in GPTQ quantization, EMA-anchor regularization on warm-started LoRA weights during test-time training, and sliding-window scoring with chunk-aligned gradient updates. Each patch ships with no-op defaults so the integrated codebase reproduces the baseline exactly when disabled. Currently statically validated; ablation campaign pending compute. *(In progress / private)*
+
 ### NLP and Retrieval
 
 **[Hebrew Semantic Retrieval](https://github.com/pranshusharmaa/Hebrew_Semantic_Retrieval)** — Semantic retrieval system for Hebrew text using pretrained embeddings without task-specific supervision.
