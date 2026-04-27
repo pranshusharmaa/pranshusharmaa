@@ -34,7 +34,7 @@ My work focuses on turning AI ideas into usable systems: real-time perception to
 
 ### Quantitative Forecasting and Tabular ML
 
-**CrunchDAO Falcon Forecasting** — Tree-based forecasting pipeline for predicting Falcon positions from structured features in a CrunchDAO challenge. The project emphasizes feature engineering, validation strategy, and model comparison. *(Private / competition work)*
+**CrunchDAO Falcon Forecasting** — Tree-based forecasting pipeline for predicting Falcon positions from structured features in a CrunchDAO challenge. The project emphasizes feature engineering, validation strategy, and model comparison.
 
 ### Reinforcement Learning
 
